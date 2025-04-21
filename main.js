@@ -250,11 +250,10 @@ function startGame() {
   submitBtn.addEventListener("click", checkAnswer);
 }
 
-
 document.addEventListener("DOMContentLoaded", () => {
   const langSelect = document.getElementById("languageSelect");
   const url = new URL(window.location.href);
-  const currentLang = url.searchParams.get("lang") || "en";
+  const currentLang = url.searchParams.get("lang") || "pt";
   langSelect.value = currentLang;
 
   langSelect.onchange = () => {
