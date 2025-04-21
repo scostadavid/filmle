@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Guess the movie from emojis and clues. A new challenge every day." id="metaDescription" />
+  <title>🎬 Filmle</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <header class="header">
+      <h1>🎬 Filmle</h1>
+      <div class="lang-dropdown">
+        <select id="languageSelect">
+          <option value="en">🇺🇸 English</option>
+          <option value="pt">🇧🇷 Português</option>
+        </select>
+      </div>
+    </header>
+    
+    <div id="emojis" class="emoji-cards"></div>
+
+    <div id="hints" class="hints"></div>
+
+    <div class="input-wrapper">
+      <input type="text" id="guessInput" placeholder="Type the movie name..." />
+      <span class="icon">🎥</span>
+    </div>
+
+    <button id="submitGuess">🎯 Guess</button>
+    <p id="feedback"></p>
+  </main>
+
+  <section class="about">
+    <h2 id="aboutTitle">About Movie Challenge</h2>
+    <p id="aboutText">
+      Guess the movie from emojis and hints! A new film puzzle is available every day.
+      Improve your pop culture skills and challenge your friends to beat your streak!
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 <a href="https://scostadavid.dev" target="_blank">scostadavid.dev</a></p>
+  </footer>
+ 
+  <div id="winPopup">
+    <div class="popup-content">
+      <button id="closePopupBtn">&times;</button>
+      <h2 id="popupTitle">🎉 Você acertou!</h2>
+      <img id="posterImg" src="" alt="Poster" />
+      <button id="shareBtn">Compartilhar no Twitter</button>
+    </div>
+  </div>
+  
+  <script src="main.js"></script>
+</body>
+</html>

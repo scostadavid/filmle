@@ -1,0 +1,662 @@
+[
+    {
+      "date": "2025-04-21",
+      "emojis": ["🦁", "👑", "🎵"],
+      "answers": {
+        "en": ["the lion king", "lion king", "lionking"],
+        "pt": ["o rei leão", "rei leão", "reileao"]
+      },
+      "hints": {
+        "en": [
+          "Disney animated classic",
+          "Set in the Pride Lands of Africa",
+          "Hakuna Matata means 'no worries'"
+        ],
+        "pt": [
+          "Clássico animado da Disney",
+          "Ambientado nas Terras do Reino na África",
+          "Hakuna Matata significa 'sem problemas'"
+        ]
+      },
+      "expiresAt": "2025-04-21T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/06_05/1994/0110357/xl_115643_0110357_b95a8d27.jpg"
+    },
+    {
+      "date": "2025-04-22",
+      "emojis": ["🐠", "👨‍👦", "🇦🇺"],
+      "answers": {
+        "en": ["finding nemo", "nemo", "findingnemo"],
+        "pt": ["procurando nemo", "nemo", "procurandonemo"]
+      },
+      "hints": {
+        "en": [
+          "Pixar animation about ocean life",
+          "A clownfish searches for his lost son",
+          "Location: Sydney, Australia"
+        ],
+        "pt": [
+          "Animação da Pixar sobre a vida oceânica",
+          "Um peixe-palhaço procura por seu filho perdido",
+          "Local: Sydney, Austrália"
+        ]
+      },
+      "expiresAt": "2025-04-22T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/05_11/2003/0266543/xl_11369_0266543_ca5e491b.jpg"
+    },
+    {
+      "date": "2025-04-23",
+      "emojis": ["🟢", "💊", "🕶️"],
+      "answers": {
+        "en": ["the matrix", "matrix", "matix"],
+        "pt": ["matrix", "o matrix", "matix"]
+      },
+      "hints": {
+        "en": [
+          "Sci-fi action film from 1999",
+          "Reality is a computer simulation",
+          "Red pill or blue pill?"
+        ],
+        "pt": [
+          "Filme de ação e ficção científica de 1999",
+          "A realidade é uma simulação de computador",
+          "Pílula vermelha ou pílula azul?"
+        ]
+      },
+      "expiresAt": "2025-04-23T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/09_01/1999/133093/xl_133093_d449797c.jpg"
+    },
+    {
+      "date": "2025-04-24",
+      "emojis": ["🏃‍♂️", "🍫", "🦐"],
+      "answers": {
+        "en": ["forrest gump", "forest gump", "forrestgump"],
+        "pt": ["forrest gump", "forest gump", "forrestgump"]
+      },
+      "hints": {
+        "en": [
+          "Oscar-winning film starring Tom Hanks",
+          "Life is like a box of chocolates",
+          "He meets presidents and runs across America"
+        ],
+        "pt": [
+          "Filme vencedor do Oscar estrelado por Tom Hanks",
+          "A vida é como uma caixa de bombons",
+          "Ele conhece presidentes e corre pela América"
+        ]
+      },
+      "expiresAt": "2025-04-24T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/21_08/1994/109830/xl_109830_be7aa966.jpg"
+    },
+    {
+      "date": "2025-04-25",
+      "emojis": ["🚢", "🧊", "👩‍❤️‍👨"],
+      "answers": {
+        "en": ["titanic", "titanik"],
+        "pt": ["titanic", "titanik"]
+      },
+      "hints": {
+        "en": [
+          "Epic romance directed by James Cameron",
+          "Based on a real maritime disaster",
+          "'I'm the king of the world!'"
+        ],
+        "pt": [
+          "Romance épico dirigido por James Cameron",
+          "Baseado em um desastre marítimo real",
+          "'Eu sou o rei do mundo!'"
+        ]
+      },
+      "expiresAt": "2025-04-25T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/12_10/1997/120338/xl_120338_42f966f1.jpg"
+    },
+    {
+      "date": "2025-04-26",
+      "emojis": ["🦖", "🏝️", "🚗"],
+      "answers": {
+        "en": ["jurassic park", "jurassicpark", "jurasic park"],
+        "pt": ["parque dos dinossauros", "jurassic park", "jurassicpark", "parquedossauros"]
+      },
+      "hints": {
+        "en": [
+          "Adventure film by Steven Spielberg",
+          "Theme park with cloned dinosaurs",
+          "Welcome to..."
+        ],
+        "pt": [
+          "Filme de aventura de Steven Spielberg",
+          "Parque temático com dinossauros clonados",
+          "Bem-vindos ao..."
+        ]
+      },
+      "expiresAt": "2025-04-26T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/11_01/1993/107290/xl_107290_f804482d.jpg"
+    },
+    {
+      "date": "2025-04-27",
+      "emojis": ["⚡", "👓", "🦉"],
+      "answers": {
+        "en": ["harry potter", "hary potter", "harrypotter"],
+        "pt": ["harry potter", "hary potter", "harrypotter"]
+      },
+      "hints": {
+        "en": [
+          "Fantasy film based on a book series",
+          "A boy wizard attends Hogwarts",
+          "The scar is a key feature"
+        ],
+        "pt": [
+          "Filme de fantasia baseado em série de livros",
+          "Um menino bruxo estuda em Hogwarts",
+          "A cicatriz é uma característica chave"
+        ]
+      },
+      "expiresAt": "2025-04-27T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/05_12/2001/0241527/xl_9845_0241527_490a8e33.jpg"
+    },
+     {
+      "date": "2025-04-28",
+      "emojis": ["🕰️", "🚗", "🔥"],
+      "answers": {
+        "en": ["back to the future", "backtothefuture", "bttf"],
+        "pt": ["de volta para o futuro", "devoltapraraofuturo", "dvpf"]
+      },
+      "hints": {
+        "en": [
+          "80s Sci-fi comedy",
+          "Time travel in a DeLorean",
+          "Great Scott!"
+        ],
+        "pt": [
+          "Comédia de ficção científica dos anos 80",
+          "Viagem no tempo em um DeLorean",
+          "Santo Deus!"
+        ]
+      },
+      "expiresAt": "2025-04-28T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/08_01/1985/88763/xl_88763_885b7f6d.jpg"
+    },
+    {
+      "date": "2025-04-29",
+      "emojis": ["💍", "🧑‍🤝‍🧑", "🌋"],
+      "answers": {
+        "en": ["lord of the rings", "lotr", "fellowship of the ring", "lordoftherings"],
+        "pt": ["senhor dos anéis", "sda", "a sociedade do anel", "senhordosaneis"]
+      },
+      "hints": {
+        "en": [
+          "Epic fantasy based on Tolkien's novel",
+          "A hobbit must destroy a powerful artifact",
+          "One Ring to rule them all"
+        ],
+        "pt": [
+          "Fantasia épica baseada no romance de Tolkien",
+          "Um hobbit deve destruir um artefato poderoso",
+          "Um Anel para a todos governar"
+        ]
+      },
+      "expiresAt": "2025-04-29T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/05_12/2001/0120737/xl_5971_0120737_47663b4f.jpg"
+    },
+     {
+      "date": "2025-04-30",
+      "emojis": ["👽", "🚲", "👆"],
+      "answers": {
+        "en": ["et the extra terrestrial", "et", "e t"],
+        "pt": ["et o extraterrestre", "et", "e t"]
+      },
+      "hints": {
+        "en": [
+          "Classic Spielberg sci-fi film",
+          "A boy befriends a lost alien",
+          "Phone home"
+        ],
+        "pt": [
+          "Clássico de ficção científica de Spielberg",
+          "Um garoto faz amizade com um alienígena perdido",
+          "Telefonar para casa"
+        ]
+      },
+      "expiresAt": "2025-04-30T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/08_01/1982/83866/xl_83866_12a28a37.jpg"
+    },
+    {
+      "date": "2025-05-01",
+      "emojis": ["🤠", "🚀", "🐍"],
+      "answers": {
+        "en": ["toy story", "toystory", "toy story 1"],
+        "pt": ["toy story", "toystory", "toy story 1"]
+      },
+      "hints": {
+        "en": [
+          "First full-length Pixar movie",
+          "Toys come alive when people aren't around",
+          "Reach for the sky!"
+        ],
+        "pt": [
+          "Primeiro longa-metragem da Pixar",
+          "Brinquedos ganham vida quando as pessoas não estão por perto",
+          "Ao infinito e além!"
+        ]
+      },
+      "expiresAt": "2025-05-01T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/14_03/1995/114709/xl_114709_97f37980.jpg"
+    },
+    {
+      "date": "2025-05-02",
+      "emojis": ["🌌", "⚔️", "🤖"],
+      "answers": {
+        "en": ["star wars", "a new hope", "starwars", "anewhope"],
+        "pt": ["guerra nas estrelas", "uma nova esperança", "guerranasestrelas", "umanovaesperanca"]
+      },
+      "hints": {
+        "en": [
+          "Iconic space opera film",
+          "Use the Force, Luke",
+          "The original 1977 movie (Episode IV)"
+        ],
+        "pt": [
+          "Filme icônico de ópera espacial",
+          "Use a Força, Luke",
+          "O filme original de 1977 (Episódio IV)"
+        ]
+      },
+      "expiresAt": "2025-05-02T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/08_01/1977/76759/xl_76759_f05b0dcb.jpg"
+    },
+    {
+      "date": "2025-05-03",
+      "emojis": ["🎈", "🏠", "🐕"],
+      "answers": {
+        "en": ["up", "upp"],
+        "pt": ["up altas aventuras", "up", "upaltasaventuras"]
+      },
+      "hints": {
+        "en": [
+          "Pixar film about an elderly widower",
+          "He flies his house to South America",
+          "Squirrel!"
+        ],
+        "pt": [
+          "Filme da Pixar sobre um viúvo idoso",
+          "Ele voa com sua casa para a América do Sul",
+          "Esquilo!"
+        ]
+      },
+      "expiresAt": "2025-05-03T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/09_05/2009/1049413/xl_1049413_f1049563.jpg"
+    },
+      {
+      "date": "2025-05-04",
+      "emojis": ["🕺", "💃", "💼"],
+      "answers": {
+        "en": ["pulp fiction", "pulpfiction", "pulp ficton"],
+        "pt": ["pulp fiction tempo de violência", "pulp fiction", "pulpfiction"]
+      },
+      "hints": {
+        "en": [
+          "Quentin Tarantino crime film",
+          "Interwoven stories of gangsters in LA",
+          "Famous dance scene with Travolta and Thurman"
+        ],
+        "pt": [
+          "Filme policial de Quentin Tarantino",
+          "Histórias entrelaçadas de gângsteres em LA",
+          "Famosa cena de dança com Travolta e Thurman"
+        ]
+      },
+      "expiresAt": "2025-05-04T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/15_06/1994/0110912/xl_110912_95da008e.jpg"
+    },
+    {
+      "date": "2025-05-05",
+      "emojis": ["👻", "🚫", "📶"],
+      "answers": {
+        "en": ["ghostbusters", "ghost busters", "ghostbuster"],
+        "pt": ["os caça fantasmas", "caça fantasmas", "cacafantasmas"]
+      },
+      "hints": {
+        "en": [
+          "Supernatural comedy from the 80s",
+          "Who ya gonna call?",
+          "Don't cross the streams!"
+        ],
+        "pt": [
+          "Comédia sobrenatural dos anos 80",
+          "Quem você vai chamar?",
+          "Não cruze os raios!"
+        ]
+      },
+      "expiresAt": "2025-05-05T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/12_09/1984/87332/xl_87332_a9c9b8df.jpg"
+    },
+    {
+      "date": "2025-05-06",
+      "emojis": ["🦇", "🃏", "❓"],
+      "answers": {
+        "en": ["the dark knight", "dark knight", "darknight", "thedarkknight"],
+        "pt": ["batman o cavaleiro das trevas", "o cavaleiro das trevas", "cavalheiro das trevas", "cavaleirodastrevas"]
+      },
+      "hints": {
+        "en": [
+          "Second film in Nolan's Batman trilogy",
+          "Heath Ledger's iconic Joker performance",
+          "Why so serious?"
+        ],
+        "pt": [
+          "Segundo filme da trilogia Batman de Nolan",
+          "Performance icônica do Coringa por Heath Ledger",
+          "Por que tão sério?"
+        ]
+      },
+      "expiresAt": "2025-05-06T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/08_07/2008/468569/xl_468569_12459adc.jpg"
+    },
+    {
+      "date": "2025-05-07",
+      "emojis": ["🐀", "👨‍🍳", "<0xF0><0x9F><0xA7><0x84>"],
+      "answers": {
+        "en": ["ratatouille", "ratatoulie", "ratatui"],
+        "pt": ["ratatouille", "ratatui"]
+      },
+      "hints": {
+        "en": [
+          "Pixar film set in Paris",
+          "Anyone can cook",
+          "A rat controls a chef by pulling his hair"
+        ],
+        "pt": [
+          "Filme da Pixar ambientado em Paris",
+          "Qualquer um pode cozinhar",
+          "Um rato controla um chef puxando seu cabelo"
+        ]
+      },
+      "expiresAt": "2025-05-07T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/07_10/2007/0382932/xl_0382932_011b9438.jpg"
+    },
+     {
+      "date": "2025-05-08",
+      "emojis": ["🦈", "🏖️", "🎶"],
+      "answers": {
+        "en": ["jaws", "jaw", "jaws movie"],
+        "pt": ["tubarão", "tubarao", "filme tubarão"]
+      },
+      "hints": {
+        "en": [
+          "Spielberg thriller about a beach town",
+          "You're gonna need a bigger boat",
+          "Iconic two-note theme music"
+        ],
+        "pt": [
+          "Suspense de Spielberg sobre uma cidade litorânea",
+          "Você vai precisar de um barco maior",
+          "Tema musical icônico de duas notas"
+        ]
+      },
+      "expiresAt": "2025-05-08T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/05_12/1975/73195/xl_13024_73195_d829195c.jpg"
+    },
+    {
+      "date": "2025-05-09",
+      "emojis": ["🏠", "🎄", "😱"],
+      "answers": {
+        "en": ["home alone", "homealone", "home alone 1"],
+        "pt": ["esqueceram de mim", "esqueceramdemim", "esqueceram de mim 1"]
+      },
+      "hints": {
+        "en": [
+          "Classic Christmas comedy",
+          "Kevin McCallister is left behind",
+          "Keep the change, ya filthy animal"
+        ],
+        "pt": [
+          "Clássico de comédia de Natal",
+          "Kevin McCallister é deixado para trás",
+          "Fique com o troco, seu animal nojento"
+        ]
+      },
+      "expiresAt": "2025-05-09T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/14_11/1990/99785/xl_99785_92a85cc5.jpg"
+    },
+    {
+      "date": "2025-05-10",
+      "emojis": ["😴", "🌀", "🏙️"],
+      "answers": {
+        "en": ["inception", "incepton", "inception movie"],
+        "pt": ["a origem", "origem", "aorigem"]
+      },
+      "hints": {
+        "en": [
+          "Christopher Nolan sci-fi heist film",
+          "Entering dreams within dreams",
+          "Is the top still spinning?"
+        ],
+        "pt": [
+          "Filme de assalto sci-fi de Christopher Nolan",
+          "Entrando em sonhos dentro de sonhos",
+          "O pião ainda está girando?"
+        ]
+      },
+      "expiresAt": "2025-05-10T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/10_07/2010/1375666/xl_1375666_20dd1986.jpg"
+    },
+     {
+      "date": "2025-05-11",
+      "emojis": ["🤖", "🗑️", "🌱"],
+      "answers": {
+        "en": ["wall e", "wall-e", "walle", "wallie"],
+        "pt": ["wall e", "wall-e", "walle", "wallie"]
+      },
+      "hints": {
+        "en": [
+          "Pixar animation about a lonely robot",
+          "Set in a future where Earth is abandoned",
+          "He falls in love with EVE"
+        ],
+        "pt": [
+          "Animação da Pixar sobre um robô solitário",
+          "Ambientado em um futuro onde a Terra é abandonada",
+          "Ele se apaixona por EVA"
+        ]
+      },
+      "expiresAt": "2025-05-11T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/08_06/2008/910970/xl_910970_984166a8.jpg"
+    },
+     {
+      "date": "2025-05-12",
+      "emojis": ["❄️", "👸", "🎶"],
+      "answers": {
+        "en": ["frozen", "frozen movie", "frozn"],
+        "pt": ["frozen", "frozen uma aventura congelante", "frozen aventura congelante", "frozn"]
+      },
+      "hints": {
+        "en": [
+          "Disney animated musical hit",
+          "Two sisters in Arendelle",
+          "Let It Go"
+        ],
+        "pt": [
+          "Sucesso musical animado da Disney",
+          "Duas irmãs em Arendelle",
+          "Livre Estou"
+        ]
+      },
+      "expiresAt": "2025-05-12T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/13_11/2013/2294629/xl_2294629_e93f7506.jpg"
+    },
+    {
+      "date": "2025-05-13",
+      "emojis": ["🟢", "🧅", "🐴"],
+      "answers": {
+        "en": ["shrek", "shrek 1", "shrek movie"],
+        "pt": ["shrek", "shrek 1", "shrek filme"]
+      },
+      "hints": {
+        "en": [
+          "Animated comedy that parodies fairy tales",
+          "An ogre goes on a quest with a donkey",
+          "Ogres are like onions"
+        ],
+        "pt": [
+          "Comédia animada que parodia contos de fadas",
+          "Um ogro vai em uma missão com um burro",
+          "Ogros são como cebolas"
+        ]
+      },
+      "expiresAt": "2025-05-13T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/05_11/2001/0126029/xl_6086_0126029_d0b9c2a4.jpg"
+    },
+    {
+      "date": "2025-05-14",
+      "emojis": ["💀", "🎸", "🏵️"],
+      "answers": {
+        "en": ["coco", "coco movie"],
+        "pt": ["viva a vida é uma festa", "coco", "vivaavidaeumafesta"]
+      },
+      "hints": {
+        "en": [
+          "Pixar film celebrating Mexican culture",
+          "A boy travels to the Land of the Dead",
+          "Remember Me"
+        ],
+        "pt": [
+          "Filme da Pixar celebrando a cultura mexicana",
+          "Um menino viaja para a Terra dos Mortos",
+          "Lembre de Mim"
+        ]
+      },
+      "expiresAt": "2025-05-14T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/17_10/2017/2380307/xl_2380307_7ee920ca.jpg"
+    },
+    {
+      "date": "2025-05-15",
+      "emojis": ["🕷️", "🕸️", "🗽"],
+      "answers": {
+        "en": ["spider-man", "spiderman", "spider man", "spiderman movie"],
+        "pt": ["homem aranha", "homem-aranha", "homemaranha"]
+      },
+      "hints": {
+        "en": [
+          "Superhero origin story",
+          "Bitten by a radioactive spider",
+          "Your friendly neighborhood..."
+        ],
+        "pt": [
+          "História de origem de super-herói",
+          "Picado por uma aranha radioativa",
+          "Seu amigão da vizinhança..."
+        ]
+      },
+      "expiresAt": "2025-05-15T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/05_12/2002/0145487/xl_7290_0145487_29a53d69.jpg"
+    },
+     {
+      "date": "2025-05-16",
+      "emojis": ["🧠", "😊", "😢"],
+      "answers": {
+        "en": ["inside out", "insideout", "inside out movie"],
+        "pt": ["divertida mente", "divertidamente", "divertida mente filme"]
+      },
+      "hints": {
+        "en": [
+          "Pixar film about emotions",
+          "Set inside the mind of a young girl",
+          "Joy, Sadness, Anger, Fear, Disgust"
+        ],
+        "pt": [
+          "Filme da Pixar sobre emoções",
+          "Ambientado dentro da mente de uma menina",
+          "Alegria, Tristeza, Raiva, Medo, Nojinho"
+        ]
+      },
+      "expiresAt": "2025-05-16T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/15_06/2015/2096973/xl_2096973_a3a05578.jpg"
+    },
+    {
+      "date": "2025-05-17",
+      "emojis": ["🤖", "🏍️", "👍"],
+      "answers": {
+        "en": ["terminator 2", "t2", "terminator judgment day", "terminator"],
+        "pt": ["o exterminador do futuro 2", "exterminador 2", "t2", "exterminador do futuro"]
+      },
+      "hints": {
+        "en": [
+          "Sci-fi action sequel directed by James Cameron",
+          "A cyborg is sent to protect John Connor",
+          "Hasta la vista, baby"
+        ],
+        "pt": [
+          "Sequência de ação sci-fi dirigida por James Cameron",
+          "Um ciborgue é enviado para proteger John Connor",
+          "Hasta la vista, baby"
+        ]
+      },
+      "expiresAt": "2025-05-17T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/15_10/1991/103064/xl_103064_d23e0e4b.jpg"
+    },
+    {
+      "date": "2025-05-18",
+      "emojis": ["💃", "🎤", "🇬🇷"],
+      "answers": {
+        "en": ["mamma mia", "mammamia", "mamma mia movie"],
+        "pt": ["mamma mia", "mammamia", "mamma mia o filme"]
+      },
+      "hints": {
+        "en": [
+          "Musical film based on ABBA songs",
+          "Set on a Greek island",
+          "A daughter tries to find her real father"
+        ],
+        "pt": [
+          "Filme musical baseado nas canções do ABBA",
+          "Ambientado em uma ilha grega",
+          "Uma filha tenta encontrar seu verdadeiro pai"
+        ]
+      },
+      "expiresAt": "2025-05-18T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/08_07/2008/0795421/xl_795421_43d3a80a.jpg"
+    },
+      {
+      "date": "2025-05-19",
+      "emojis": ["🏠", "👨‍👩‍👧‍👦", "🏆"],
+      "answers": {
+        "en": ["parasite", "parasit", "parasitemovie"],
+        "pt": ["parasita", "parasit", "parasita filme"]
+      },
+      "hints": {
+        "en": [
+          "South Korean dark comedy thriller",
+          "Directed by Bong Joon-ho",
+          "Won the Oscar for Best Picture"
+        ],
+        "pt": [
+          "Thriller de comédia sombria sul-coreano",
+          "Dirigido por Bong Joon-ho",
+          "Ganhou o Oscar de Melhor Filme"
+        ]
+      },
+      "expiresAt": "2025-05-19T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/19_11/2019/6751668/xl_6751668_1e6d09c5.jpg"
+    },
+    {
+      "date": "2025-05-20",
+      "emojis": ["⚔️", "🏟️", "👍"],
+      "answers": {
+        "en": ["gladiator", "gladiador", "gladiatormovie"],
+        "pt": ["gladiador", "gladiador filme"]
+      },
+      "hints": {
+        "en": [
+          "Epic historical drama directed by Ridley Scott",
+          "A Roman general seeks revenge",
+          "Are you not entertained?"
+        ],
+        "pt": [
+          "Drama histórico épico dirigido por Ridley Scott",
+          "Um general romano busca vingança",
+          "Vocês não estão entretidos?"
+        ]
+      },
+      "expiresAt": "2025-05-20T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/05_11/2000/172495/xl_172495_3243957a.jpg"
+    }
+]
