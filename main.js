@@ -56,7 +56,7 @@ const inputEl = document.getElementById("guessInput");
 const feedbackEl = document.getElementById("feedback");
 const submitBtn = document.getElementById("submitGuess");
 const countdownEl = document.getElementById("countdown");
-const popup = document.getElementById("winPopup");
+// const popup = document.getElementById("winPopup");
 
 function renderEmojis(emojis) {
   emojisEl.innerHTML = "";
@@ -100,10 +100,10 @@ function levenshtein(a, b) {
 
 function normalize(str) {
   return str
-    .normalize("NFD")                          
+    .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
-    .replace(/\b(the|a|an|o|a|um|uma|os|as|uns|umas)\b/g, "") 
+    .replace(/\b(the|a|an|o|a|um|uma|os|as|uns|umas)\b/g, "")
     .replace(/[^\w\s]/g, "")
     .replace(/\s+/g, " ")
     .trim();
@@ -111,7 +111,7 @@ function normalize(str) {
 
 function isCloseEnough(guess, answers) {
   const normGuess = normalize(guess);
-  
+
   return answers.some(ans => {
     const normAns = normalize(ans);
 
@@ -140,7 +140,7 @@ function checkAnswer() {
     freezeInput();
   } else {
     feedbackEl.textContent = t("incorrect");
-    showHint();
+    showHint(); 
     if (state.currentHint > challenge.hints[lang].length) {
       saveStatus("failed");
     }
@@ -155,17 +155,23 @@ function freezeInput() {
   inputEl.value = challenge.answers[lang][0];
   submitBtn.textContent = t("solved_btn");
 
+  confetti({
+    particleCount: 100,
+    spread: 70,
+    origin: { y: 0.6 }
+  });
+
   submitBtn.onclick = () => {
     const text = encodeURIComponent(t("tweet_text"));
     const url = encodeURIComponent(window.location.href);
-    window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}`, "_blank");
+    window.open(`https://x.com/intent/tweet?text=${text}&url=${url}`, "_blank");
   };
 }
 
 function saveStatus(status) {
   document.cookie = `played=${challenge.date}; path=/; expires=${challenge.expiresAt}`;
   document.cookie = `status=${status}; path=/; expires=${challenge.expiresAt}`;
-  if (status === "solved") showWinPopup();
+  // if (status === "solved") showWinPopup();
 }
 function loadStatus() {
   const cookies = Object.fromEntries(
@@ -177,10 +183,9 @@ function loadStatus() {
     feedbackEl.textContent = solved ? t("solved_status") : "";
     if (solved) {
       freezeInput();
-      showWinPopup();
     }
   }
-  startCountdown(); 
+  startCountdown();
 }
 
 
@@ -201,34 +206,14 @@ function startCountdown() {
   }, 60000);
 }
 
-function showWinPopup() {
-  const popup = document.getElementById("winPopup");
-  const poster = document.getElementById("posterImg");
-  popup.style.display = "flex";
-  poster.src = challenge.posterUrl || "https://via.placeholder.com/300x450";
-  document.getElementById("shareBtn").textContent = t("solved_btn");
-  document.getElementById("shareBtn").onclick = () => {
-    const text = encodeURIComponent(t("tweet_text"));
-    const url = encodeURIComponent(window.location.href);
-    window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}`, "_blank");
-  };
-  document.querySelector("#winPopup h2").textContent = t("share_popup");
-}
-
 function updateStaticText() {
   document.getElementById("aboutTitle").textContent = t("about_title");
   document.getElementById("aboutText").textContent = t("about_text");
   document.getElementById("guessInput").placeholder = t("input_placeholder");
-  document.getElementById("popupTitle").textContent = t("popup_title");
   document.getElementById("submitGuess").textContent = t("guess_input");
   document.getElementById("metaDescription").setAttribute("content", t("about_text"));
-  
+
 }
-
-document.getElementById("closePopupBtn").onclick = () => {
-  popup.style.display = "none";
-};
-
 
 async function loadChallenge() {
   try {
@@ -245,8 +230,7 @@ async function loadChallenge() {
 function startGame() {
   updateStaticText();
   renderEmojis(challenge.emojis);
-  showHint();
-  loadStatus();
+  loadStatus(); 
   submitBtn.addEventListener("click", checkAnswer);
 }
 
