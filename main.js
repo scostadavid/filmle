@@ -234,7 +234,7 @@ function startGame() {
   submitBtn.addEventListener("click", checkAnswer);
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+function setupLanguageSelector() {
   const langSelect = document.getElementById("languageSelect");
   const url = new URL(window.location.href);
   const currentLang = url.searchParams.get("lang") || "pt";
@@ -244,6 +244,9 @@ document.addEventListener("DOMContentLoaded", () => {
     url.searchParams.set("lang", langSelect.value);
     window.location.href = url.toString();
   };
+}
 
+document.addEventListener("DOMContentLoaded", () => {
+  setupLanguageSelector();
   loadChallenge();
 });
