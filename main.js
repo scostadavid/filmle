@@ -18,6 +18,7 @@ const i18n = {
     input_placeholder: "Digite o nome do filme...",
     popup_title: "🎉 Você acertou!",
     guess_input: "🎯 Adivinhar",
+    shutdown_notice: "📅 O Filmle será encerrado no dia 1º de junho de 2025. Obrigado a todos que jogaram!",
   },
   en: {
     correct: "🎉 You guessed my champ!",
@@ -35,6 +36,7 @@ const i18n = {
     input_placeholder: "Type the movie name...",
     popup_title: "🎉 You guessed it!",
     guess_input: "🎯 Guess",
+    shutdown_notice: "📅 Filmle will shut down on June 1, 2025. Thank you to everyone who played!",
   }
 };
 
@@ -246,7 +248,22 @@ function setupLanguageSelector() {
   };
 }
 
+function showShutdownNotice() {
+  const noticeEl = document.getElementById("shutdownNotice");
+  noticeEl.textContent = t("shutdown_notice");
+  noticeEl.style.background = "#fff3cd";
+  noticeEl.style.border = "1px solid #ffeeba";
+  noticeEl.style.color = "#856404";
+  noticeEl.style.padding = "10px";
+  noticeEl.style.margin = "10px auto";
+  noticeEl.style.textAlign = "center";
+  noticeEl.style.maxWidth = "600px";
+  noticeEl.style.borderRadius = "8px";
+}
+
+
 document.addEventListener("DOMContentLoaded", () => {
   setupLanguageSelector();
+  showShutdownNotice();
   loadChallenge();
 });

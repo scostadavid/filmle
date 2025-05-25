@@ -658,5 +658,159 @@
       },
       "expiresAt": "2025-05-20T00:00:00Z",
       "posterUrl": "https://xl.movieposterdb.com/05_11/2000/172495/xl_172495_3243957a.jpg"
+    },
+    {
+      "date": "2025-05-25",
+      "emojis": ["🦸", "⚡", "🛡️"],
+      "answers": {
+        "en": ["captain america", "captainamerica", "the first avenger"],
+        "pt": ["capitão américa", "capitao america", "o primeiro vingador"]
+      },
+      "hints": {
+        "en": [
+          "Marvel superhero origin story",
+          "Steve Rogers becomes a super soldier",
+          "I can do this all day"
+        ],
+        "pt": [
+          "História de origem do herói da Marvel",
+          "Steve Rogers vira um supersoldado",
+          "Eu posso fazer isso o dia todo"
+        ]
+      },
+      "expiresAt": "2025-05-25T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/11_07/2011/453829/xl_453829_2b9a4c0e.jpg"
+    },
+    {
+      "date": "2025-05-26",
+      "emojis": ["🎭", "🦁", "🌅"],
+      "answers": {
+        "en": ["the lion king 2019", "lion king remake", "lionking2019"],
+        "pt": ["o rei leão 2019", "rei leão remake", "reileao2019"]
+      },
+      "hints": {
+        "en": [
+          "Photorealistic CGI remake",
+          "Same story as the 1994 animated classic",
+          "Beyoncé voices Nala"
+        ],
+        "pt": [
+          "Remake em CGI realista",
+          "Mesma história do clássico de 1994",
+          "Beyoncé dubla Nala"
+        ]
+      },
+      "expiresAt": "2025-05-26T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/19_07/2019/6105098/xl_6105098_0e1c9a5b.jpg"
+    },
+    {
+      "date": "2025-05-27",
+      "emojis": ["🚀", "👨‍🚀", "🌑"],
+      "answers": {
+        "en": ["interstellar", "interstelar", "interestelar"],
+        "pt": ["interstellar", "interestelar"]
+      },
+      "hints": {
+        "en": [
+          "Sci-fi epic directed by Christopher Nolan",
+          "Space travel through a wormhole",
+          "Love is the one thing that transcends time and space"
+        ],
+        "pt": [
+          "Épico sci-fi de Christopher Nolan",
+          "Viagem espacial através de um buraco de minhoca",
+          "O amor é a única coisa que transcende tempo e espaço"
+        ]
+      },
+      "expiresAt": "2025-05-27T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/14_11/2014/816692/xl_816692_5b5d5e3d.jpg"
+    },
+    {
+      "date": "2025-05-28",
+      "emojis": ["👗", "👠", "🕛"],
+      "answers": {
+        "en": ["cinderella", "cinderela", "cinderela movie"],
+        "pt": ["cinderela", "cinderella", "cinderela filme"]
+      },
+      "hints": {
+        "en": [
+          "Classic fairy tale adaptation",
+          "Magic lasts until midnight",
+          "Bibbidi-Bobbidi-Boo"
+        ],
+        "pt": [
+          "Adaptação do conto de fadas clássico",
+          "A magia dura até meia-noite",
+          "Bibbidi-Bobbidi-Boo"
+        ]
+      },
+      "expiresAt": "2025-05-28T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/07_03/1950/42332/xl_42332_2e8b0e1f.jpg"
+    },
+    {
+      "date": "2025-05-29",
+      "emojis": ["👽", "🔫", "🍫"],
+      "answers": {
+        "en": ["men in black", "mib", "meninblack"],
+        "pt": ["homens de preto", "mib", "homensdepreto"]
+      },
+      "hints": {
+        "en": [
+          "Sci-fi comedy about secret agents",
+          "They monitor extraterrestrial activity on Earth",
+          "Neuralyzer makes people forget"
+        ],
+        "pt": [
+          "Comédia sci-fi sobre agentes secretos",
+          "Monitoram atividade extraterrestre na Terra",
+          "Neuralizador faz as pessoas esquecerem"
+        ]
+      },
+      "expiresAt": "2025-05-29T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/07_07/1997/119282/xl_119282_0a8c8b5f.jpg"
+    },
+    {
+      "date": "2025-05-30",
+      "emojis": ["🦕", "🏝️", "🛩️"],
+      "answers": {
+        "en": ["jurassic world", "jurassicworld", "jurasic world"],
+        "pt": ["jurassic world", "jurassicworld", "mundo jurassico"]
+      },
+      "hints": {
+        "en": [
+          "Revival of the Jurassic Park franchise",
+          "Theme park is now fully operational",
+          "Chris Pratt trains raptors"
+        ],
+        "pt": [
+          "Revival da franquia Jurassic Park",
+          "Parque temático agora totalmente operacional",
+          "Chris Pratt treina raptores"
+        ]
+      },
+      "expiresAt": "2025-05-30T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/15_06/2015/367088/xl_367088_3a8c9d0d.jpg"
+    },
+    {
+      "date": "2025-05-31",
+      "emojis": ["👦", "🎈", "🤡"],
+      "answers": {
+        "en": ["it", "it chapter one", "it movie"],
+        "pt": ["it a coisa", "it", "a coisa filme"]
+      },
+      "hints": {
+        "en": [
+          "Horror film based on Stephen King's novel",
+          "Pennywise the Dancing Clown",
+          "We all float down here"
+        ],
+        "pt": [
+          "Filme de terror baseado no livro de Stephen King",
+          "Palhaço Pennywise",
+          "Todos flutuamos aqui embaixo"
+        ]
+      },
+      "expiresAt": "2025-05-31T00:00:00Z",
+      "posterUrl": "https://xl.movieposterdb.com/17_09/2017/1396484/xl_1396484_5c7d0a0e.jpg"
     }
 ]
