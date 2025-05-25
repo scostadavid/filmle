@@ -4,6 +4,13 @@ A fun, minimalist word-guessing game inspired by Wordle — but for movies. Each
 
 > Hosted on [Cloudflare Pages](https://pages.cloudflare.com/)
 
+## 🧰 Tech Stack
+
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- **Deployment:** Cloudflare Pages
+- **Storage:** Cloudflare KV (WIP)
+- **CI/CD:** GitHub Actions (WIP)
+
 ## ✨ Features
 
 - 🧠 Daily movie guessing game
@@ -15,13 +22,6 @@ A fun, minimalist word-guessing game inspired by Wordle — but for movies. Each
 - 🍪 State saved via cookies/localStorage (no backend needed)
 - 🔎 SEO-optimized static site
 - 📱 Mobile-first design
-
-## 🧰 Tech Stack
-
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript
-- **Deployment:** Cloudflare Pages
-- **Storage:** Cloudflare KV (WIP)
-- **CI/CD:** GitHub Actions (WIP)
 
 ## 🚀 Getting Started (Local)
 
